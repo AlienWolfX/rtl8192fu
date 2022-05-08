@@ -30,7 +30,8 @@ sudo modprobe 8192fu <br />
 
 *usb-devices | grep "Vendor=0bda ProdID=f192" -B2 -A5* <br />
 ![usb](img/usb.png)
-  
+** ** 
+
 # Uninstall
 **Via Make** <br />
 sudo modprobe -r 8192fu <br />
