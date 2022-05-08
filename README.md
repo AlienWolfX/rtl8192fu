@@ -23,6 +23,7 @@ sudo chmod a+x ./dkms-* <br />
 sudo ./dkms-install.sh <br />
 sudo modprobe 8192fu <br />
 
+** **
 **LED will not blink or flash on the Adapter. You must run iwconfig and lsusb to verify if driver is working properly.** <br />
 *iwconfig* <br />
 ![iwconfig](img/iwconfig.png)
