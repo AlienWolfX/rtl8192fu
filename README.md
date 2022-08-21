@@ -1,7 +1,7 @@
 ![logo](img/logo.png)
 ** **
 # Realtek 8192FU Linux USB (MONITOR MODE WORKING BUT NO VIF Support)
-Forked from [BlightX](https://github.com/BrightX) Github
+Cloned from [BlightX](https://github.com/BrightX) Github
 
 Original Source Code: [Internet Archive](https://archive.org/details/realtek-8192fu)  <br />
 
